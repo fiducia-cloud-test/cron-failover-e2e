@@ -19,7 +19,7 @@ Source organization: `fiducia-cloud`
 | Source | Commit | Branch observed |
 |---|---:|---|
 | `fiducia-cloud/fiducia-node.rs` | `b9177646f9c69c67b76b3fbee9fded9b585e9c0c` | `main` |
-| `fiducia-cloud/fiducia-routing.rs` | `7379bc5fc12fed2d89c2fa92a04b590dc5cce97b` | `main` |
+| `fiducia-cloud/fiducia-routing.rs` | `0672017eabdf9b7006d6da4a7c3ae96ef542e445` | `main` |
 
 ## Dependency lanes
 
